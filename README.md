@@ -4,6 +4,9 @@
   <img src="https://img.shields.io/badge/Streamlit-1.55-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-LSTM-6C63FF?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <a href="https://ai-next-word-prediction-system.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
 </p>
 
 <h1 align="center">🧠 Next Word Predictor</h1>
@@ -13,6 +16,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ai-next-word-prediction-system.onrender.com/">🌐 Live Demo</a> •
   <a href="#features">Features</a> •
   <a href="#demo">Demo</a> •
   <a href="#tech-stack">Tech Stack</a> •
